@@ -11,4 +11,10 @@ ElectroHub
 7) Show Sales/Profit/Discount/Net Sales/All remaining fields for each order that could be filtered using visual filters. (Product/Date/Customer ID/Promotion Categories)
 8) Show sales by different cities.
 
+![image alt](https://github.com/nilwagh8800/Sales-Data-Analysis/blob/92019e38b984f160c656a64ca130e80abbac2ece/Screenshot%202025-01-15%20131540.png)
+![image alt](https://github.com/nilwagh8800/Sales-Data-Analysis/blob/92019e38b984f160c656a64ca130e80abbac2ece/Screenshot%202025-01-15%20131559.png)
+![image alt](https://github.com/nilwagh8800/Sales-Data-Analysis/blob/92019e38b984f160c656a64ca130e80abbac2ece/Screenshot%202025-01-15%20131623.png)
+![image alt](https://github.com/nilwagh8800/Sales-Data-Analysis/blob/92019e38b984f160c656a64ca130e80abbac2ece/Screenshot%202025-01-15%20131640.png)
+![image alt](https://github.com/nilwagh8800/Sales-Data-Analysis/blob/92019e38b984f160c656a64ca130e80abbac2ece/Screenshot%202025-01-15%20131702.png)
+
 
